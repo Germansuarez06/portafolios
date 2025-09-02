@@ -16,3 +16,9 @@ Este proyecto es un portafolio personal desarrollado para mostrar mis habilidade
 
 ## Enlace al sitio
 [Ver portafolio en vivo](https://germansuarez06.github.io/portafolios)
+
+## Vista previa
+
+![Portafolio en escritorio](images/desktop-view.png)
+![Portafolio en móvil](images/mobile-view.png)
+
