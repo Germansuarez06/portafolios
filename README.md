@@ -16,5 +16,3 @@ Este proyecto es un portafolio personal desarrollado para mostrar mis habilidade
 
 ## Enlace al sitio
 [Ver portafolio en vivo](https://germansuarez06.github.io/portafolios)
-
-## Cómo clonar el repositorio
